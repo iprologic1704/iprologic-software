@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="14mm" height="14.059mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1400 1405.9"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#2B2A29;stroke-width:17.64;stroke-miterlimit:2.61313}
+    .fil1 {fill:none}
+    .fil0 {fill:#182432}
+    .fil2 {fill:url(#id1)}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <path d="M701.66 7.24l0.28 0.01 -0.55 0 0.27 -0.01zm697.48 787.25c-41.64,348.47 -338.01,618.63 -697.48,618.63 -387.99,0 -702.52,-314.72 -702.52,-702.94 0,-358.57 268.33,-654.41 615.03,-697.51l0 329.32c-166.66,39.5 -290.68,189.35 -290.68,368.19 0,208.98 169.32,378.39 378.17,378.39 179.89,0 330.43,-125.68 368.73,-294.08l328.75 0z"/>
+    </clipPath>
+  <radialGradient id="id1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.05552 -1.05552 1.05174 1.05152 -444 1084)" cx="1045.24" cy="366.69" r="841.29" fx="1045.24" fy="366.69">
+   <stop offset="0" style="stop-opacity:1; stop-color:#63C0E9"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#0F87CC"/>
+  </radialGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1623655247872">
+   <path class="fil0" d="M701.66 7.24l0.28 0.01 -0.55 0 0.27 -0.01zm697.48 787.25c-41.64,348.47 -338.01,618.63 -697.48,618.63 -387.99,0 -702.52,-314.72 -702.52,-702.94 0,-358.57 268.33,-654.41 615.03,-697.51l0 329.32c-166.66,39.5 -290.68,189.35 -290.68,368.19 0,208.98 169.32,378.39 378.17,378.39 179.89,0 330.43,-125.68 368.73,-294.08l328.75 0z"/>
+   <g style="clip-path:url(#id0)">
+    <g>
+     <ellipse class="fil1 str0" cx="88.27" cy="-101.84" rx="94.55" ry="75.64"/>
+    </g>
+   </g>
+   <path class="fil1" d="M701.66 7.24l0.28 0.01 -0.55 0 0.27 -0.01zm697.48 787.25c-41.64,348.47 -338.01,618.63 -697.48,618.63 -387.99,0 -702.52,-314.72 -702.52,-702.94 0,-358.57 268.33,-654.41 615.03,-697.51l0 329.32c-166.66,39.5 -290.68,189.35 -290.68,368.19 0,208.98 169.32,378.39 378.17,378.39 179.89,0 330.43,-125.68 368.73,-294.08l328.75 0z"/>
+   <polygon class="fil2" points="1399.14,7.24 718.57,7.24 718.57,356.86 1048.3,356.86 1048.3,685.44 1399.14,685.44 "/>
+  </g>
+ </g>
+</svg>
