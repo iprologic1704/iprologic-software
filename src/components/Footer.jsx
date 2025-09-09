@@ -26,7 +26,7 @@ const Footer = () => {
               <li><a href="">Website Design</a></li>
               <li><a href="">Graphic Design</a></li>
               <li><a href="">Digital Marketing</a></li>
-              <li><a href="">UI UX Design</a></li>
+              <li><a href="">UI/UX Design</a></li>
               <li><a href="">Mobile App Development</a></li>
               <li><a href="">Database Services</a></li>
             </ul>
@@ -79,7 +79,7 @@ const Footer = () => {
 
         <div className="row">
           <div className="col-md-12 mt-5 text-center">
-            <small>© 2024 All Rights Reserved by Iprologic Software Solutions.com</small>
+            <small>© 2025 All Rights Reserved by Iprologic Software Solutions Pvt Ltd</small>
           </div>
         </div>
       </div>

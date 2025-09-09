@@ -15,19 +15,19 @@ function FeedbackCarousel() {
             <div id="carouselExampleIndicators" className="carousel slide" data-bs-ride="carousel">
               <div className="carousel-inner">
                 <div className="carousel-item active">
-                  <p className="mb-5">Roin a lacus arcu. Nullam id dui eu orci maximus...</p>
-                  <h5 className="name mb-2">Jessica Brown</h5>
-                  <span className="designation">Co Founder</span>
+                  <p className="mb-5">Working with this team has been an amazing experience. They delivered our project on time and exceeded our expectations with their creativity and professionalism...</p>
+                  <h5 className="name mb-2">Ravi Jakkala</h5>
+                  <span className="designation">UI Developer</span>
                 </div>
                 <div className="carousel-item">
-                  <p className="mb-5">Roin a lacus arcu. Nullam id dui eu orci maximus...</p>
-                  <h5 className="name mb-2">Jessica Brown</h5>
-                  <span className="designation">Co Founder</span>
+                  <p className="mb-5">The mobile app they developed for us is fast, user-friendly, and exactly what we needed. Our customers love it!...</p>
+                  <h5 className="name mb-2">Yeswanth</h5>
+                  <span className="designation">Android Developer</span>
                 </div>
                 <div className="carousel-item">
-                  <p className="mb-5">Roin a lacus arcu. Nullam id dui eu orci maximus...</p>
-                  <h5 className="name mb-2">Jessica Brown</h5>
-                  <span className="designation">Co Founder</span>
+                  <p className="mb-5">The UI/UX design was spot on. Our website now looks modern and is much easier to navigate. Great work!...</p>
+                  <h5 className="name mb-2">Sneha </h5>
+                  <span className="designation">Full stack developer</span>
                 </div>
               </div>
             </div>

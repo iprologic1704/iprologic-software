@@ -50,29 +50,29 @@ const About = () => {
                                 <div className="icon">
                                     <i className="fa fa-thumbs-up"></i>
                                 </div>
-                                <h3 className="mb-3"><b>549</b></h3>
+                                <h3 className="mb-3"><b>10+</b></h3>
                                 <p>Projects Completed</p>
                             </div>
                             <div className="col-md-3 text-center text-white">
                                 <div className="icon">
                                     <i className="fa fa-users"></i>
                                 </div>
-                                <h3 className="mb-3"><b>45</b></h3>
+                                <h3 className="mb-3"><b>12</b></h3>
                                 <p>Team Size</p>
                             </div>
                             <div className="col-md-3 text-center text-white">
                                 <div className="icon">
                                     <i className="fa fa-smile"></i>
                                 </div>
-                                <h3 className="mb-3"><b>260</b></h3>
+                                <h3 className="mb-3"><b>50+</b></h3>
                                 <p>SATISFIED CLIENTS</p>
                             </div>
                             <div className="col-md-3 text-center text-white">
                                 <div className="icon">
                                     <i className="fa fa-thumbs-up"></i>
                                 </div>
-                                <h3 className="mb-3"><b>549</b></h3>
-                                <p>Projects Completed</p>
+                                <h3 className="mb-3"><b>5</b></h3>
+                                <p>Coming Projects</p>
                             </div>
                         </div>
                     </div>
