@@ -1,7 +1,7 @@
 import React from 'react';
-import FeedbackCarousel from '../components/FeedbackCarousel';
-import RequestQuoteSection from '../components/RequestQuoteSection'
-import ContactUsSection from '../components/ContactUsSection'
+import FeedbackCarousel from '../components/FeedbackCarousel.jsx';
+import RequestQuoteSection from '../components/RequestQuoteSection.jsx'
+import ContactUsSection from '../components/ContactUsSection.jsx'
 import aboutHero from '../images/hero_one.gif';
 
 const Home = () => {
@@ -20,7 +20,7 @@ const Home = () => {
             </div>
 
             <div class="col-md-6">
-              <img  src={aboutHero} alt="" class="img-fluid" />
+              <img src={aboutHero} alt="" class="img-fluid" />
             </div>
 
           </div>
@@ -69,7 +69,7 @@ const Home = () => {
         <div class="container">
           <div class="row d-flex align-items-center">
             <div class="col-md-6 pe-5 mb-3">
-              <img  src={aboutHero} class="img-fluid" alt="About Iprologic" />
+              <img src={aboutHero} class="img-fluid" alt="About Iprologic" />
             </div>
             <div class="col-md-6">
               <h6>ABOUT OUR COMPANY</h6>
@@ -128,9 +128,9 @@ const Home = () => {
                 </div>
               </div>
 
-             
 
-              
+
+
 
               <div className="short-banner-six col-lg-6 col-md-6 col-sm-12 bg-white" data-wow-delay="1200ms">
                 <div className="banner-inner">
@@ -185,12 +185,12 @@ const Home = () => {
       </div>
       <div>
 
-<FeedbackCarousel />
-</div>
-<div>
-                <ContactUsSection />
-                <RequestQuoteSection />
-            </div>
+        <FeedbackCarousel />
+      </div>
+      <div>
+        <ContactUsSection />
+        <RequestQuoteSection />
+      </div>
 
     </div>
 

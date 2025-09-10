@@ -1,12 +1,12 @@
 import React from 'react';
-import HeroBanner from '../components/Herobanner';
-import ContactUsSection from '../components/ContactUsSection';
-import RequestQuoteSection from '../components/RequestQuoteSection';
+import ContactUsSection from '../components/ContactUsSection.jsx';
+import RequestQuoteSection from '../components/RequestQuoteSection.jsx';
+import HeroBanner from '../components/HeroBanner.jsx';
 
 const Services = () => {
   return (
-    <div>  
-      <HeroBanner /> 
+    <div>
+      <HeroBanner />
       <div>
         <section>
           <div className="container">
@@ -46,7 +46,7 @@ const Services = () => {
                 </div>
               </div>
 
-              
+
               <div className="short-banner-six col-lg-6 col-md-6 col-sm-12 bg-white" data-wow-delay="1200ms">
                 <div className="banner-inner">
                   <p className="mb-4">Get Your IT Technology Solutions</p>
@@ -63,8 +63,8 @@ const Services = () => {
       </div>
 
       <div>
-      <ContactUsSection/>
-      <RequestQuoteSection/>
+        <ContactUsSection />
+        <RequestQuoteSection />
       </div>
     </div>
   );

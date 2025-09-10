@@ -1,8 +1,8 @@
 import React from 'react'
-import HeroBanner from '../components/Herobanner'
-import ContactUsSection from '../components/ContactUsSection'
-import RequestQuoteSection from '../components/RequestQuoteSection'
-import ContactBanner from '../components/ContactBanner'
+import HeroBanner from '../components/HeroBanner.jsx'
+import ContactUsSection from '../components/ContactUsSection.jsx'
+import RequestQuoteSection from '../components/RequestQuoteSection.jsx'
+import ContactBanner from '../components/ContactBanner.jsx'
 
 const Contact = () => {
   return (

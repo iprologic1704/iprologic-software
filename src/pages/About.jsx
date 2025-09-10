@@ -1,10 +1,10 @@
 import React from 'react'
-import HeroBanner from '../components/Herobanner'
-import RequestQuoteSection from '../components/RequestQuoteSection'
-import ContactUsSection from '../components/ContactUsSection'
-import FeedbackCarousel from '../components/FeedbackCarousel'
+import RequestQuoteSection from '../components/RequestQuoteSection.jsx'
+import ContactUsSection from '../components/ContactUsSection.jsx'
+import FeedbackCarousel from '../components/FeedbackCarousel.jsx'
 // Import image from src/images
 import aboutHero from '../images/about-hero.svg';
+import HeroBanner from '../components/HeroBanner.jsx';
 
 const About = () => {
     return (
@@ -14,7 +14,7 @@ const About = () => {
                 <section>
                     <div className="container">
                         <div className="row d-flex align-items-center">
-                           <div className="col-md-6 pe-5">
+                            <div className="col-md-6 pe-5">
                                 <img
                                     src={aboutHero} // use imported image here
                                     className="img-fluid"
