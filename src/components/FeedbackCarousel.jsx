@@ -16,7 +16,7 @@ function FeedbackCarousel() {
               <div className="carousel-inner">
                 <div className="carousel-item active">
                   <p className="mb-5">Working with this team has been an amazing experience. They delivered our project on time and exceeded our expectations with their creativity and professionalism...</p>
-                  <h5 className="name mb-2">Ravi Jakkala</h5>
+                  <h5 className="name mb-2">Kishore Kumar</h5>
                   <span className="designation">UI Developer</span>
                 </div>
                 <div className="carousel-item">
